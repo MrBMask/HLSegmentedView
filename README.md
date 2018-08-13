@@ -2,7 +2,7 @@
 仿生SegmentedView 标题完美适配，自动局中显示
 
 
-
+![效果图](https://github.com/MrBMask/HLSegmentedView/blob/master/HLSegmentView/HLSegmentView/HLSegementView.gif)
 
 
 #####效果
